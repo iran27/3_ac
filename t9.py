@@ -16,12 +16,14 @@ def cemprimos():
 
     while p < limite:
         ehprimo = 1
-        for i in range(2, numer):
+        for i in range(2, numero):
             ehprimo = 0
             break
         if (ehprimo):
             primos = primos + str(numero)
             p += 1
+        numero +=1
+
     return primos
 
 if __name__ == "__main__":
