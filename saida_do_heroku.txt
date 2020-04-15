@@ -1,0 +1,15 @@
+2020-04-15T04:46:03.621908+00:00 app[api]: Release v1 created by user iransantosjr@gmail.com
+2020-04-15T04:46:03.621908+00:00 app[api]: Initial release by user iransantosjr@gmail.com
+2020-04-15T04:46:03.751959+00:00 app[api]: Release v2 created by user iransantosjr@gmail.com
+2020-04-15T04:46:03.751959+00:00 app[api]: Enable Logplex by user iransantosjr@gmail.com
+2020-04-15T04:46:38.000000+00:00 app[api]: Build started by user iransantosjr@gmail.com
+2020-04-15T04:47:05.729457+00:00 app[api]: Deploy 368c8824 by user iransantosjr@gmail.com
+2020-04-15T04:47:05.729457+00:00 app[api]: Release v3 created by user iransantosjr@gmail.com
+2020-04-15T04:47:05.747684+00:00 app[api]: Scaled to web@1:Free by user iransantosjr@gmail.com
+2020-04-15T04:47:10.923056+00:00 app[web.1]: * Running on http://0.0.0.0:20301/ (Press CTRL+C to quit)
+2020-04-15T04:47:11.460737+00:00 heroku[web.1]: State changed from starting to up
+2020-04-15T04:47:14.000000+00:00 app[api]: Build succeeded
+2020-04-15T04:48:18.632208+00:00 app[web.1]: 10.7.166.130 - - [15/Apr/2020 04:48:18] "GET / HTTP/1.1" 200 -
+2020-04-15T04:48:18.633421+00:00 heroku[router]: at=info method=GET path="/" host=agile-mesa-82654.herokuapp.com request_id=6ac604ad-1afd-4756-825a-6635e942fc2d fwd="177.33.143.61" dyno=web.1 connect=0ms service=9ms status=200 bytes=424 protocol=https
+2020-04-15T05:24:20.995077+00:00 heroku[web.1]: Idling
+2020-04-15T05:24:20.997574+00:00 heroku[web.1]: State changed from up to down
